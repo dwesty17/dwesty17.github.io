@@ -1,3 +1,3 @@
-# Personal website
+# My personal site
 
 https://www.dylanwesterhold.com
