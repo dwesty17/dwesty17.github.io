@@ -1,3 +1,3 @@
-# dwesty17.github.io
+# Personal website
 
-The code that powers my personal website at https://www.dylanwesterhold.com
+https://www.dylanwesterhold.com
